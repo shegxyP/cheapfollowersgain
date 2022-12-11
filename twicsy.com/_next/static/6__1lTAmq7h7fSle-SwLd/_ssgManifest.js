@@ -1,0 +1,2 @@
+self.__SSG_MANIFEST = new Set(["\u002F500", "\u002F404", "\u002Fbuy-instagram-followers", "\u002Fcontact", "\u002F", "\u002Fprivacy-policy", "\u002Freviews", "\u002Fterms", "\u002Fbuy-instagram-likes", "\u002Fbuy-instagram-views"]);
+self.__SSG_MANIFEST_CB && self.__SSG_MANIFEST_CB()
